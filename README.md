@@ -1,7 +1,7 @@
 <div class="info">
 <h1 align="center">Hi there, I'm Asylzhan👋</h1>
 <h3 align="center">Computer science student</h3>
-<h6 align="center">Frontend Developer</h6>
+<h6 align="center">Web Developer</h6>
 </div>
 
 <!--

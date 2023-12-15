@@ -1,7 +1,6 @@
 <div class="info">
-<h1 align="center">Hi there, I'm Asylzhan👋</h1>
-<h3 align="center">Computer science student</h3>
-<h6 align="center">Future Frontend Developer</h6>
+<h1 align="center">Computer science student</h3>
+<h3 align="center">Future Web-Developer</h6>
 </div>
 
 <!--
